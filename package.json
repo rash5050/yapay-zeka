@@ -1,0 +1,22 @@
+{
+  "name": "rash-altyapi",
+  "version": "1.0.0",
+  "description": "rash Altyapı",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Rash",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.5",
+    "@discordjs/rest": "^2.0.1",
+    "chalk": "^3.0.0",
+    "discord-api-types": "^0.37.54",
+    "discord.js": "^14.13.0",
+    "fr3zydb": "^1.1.1",
+    "hercai": "^10.0.2",
+    "moment": "^2.29.4",
+    "replicate": "^0.16.1"
+  }
+}
